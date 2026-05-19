@@ -1,4 +1,4 @@
-# 
+# updated JetBrains PyCharm لجهاز الكمبيوتر سكربتات هو أفضل JetBrains PyCharm لجهاز الكمبيوتر سكربتات مع دعم Docker Compose و مقتطفات الكود. آمن، موثوق، ومُحَسّن لأقصى أداء.
 
 
 
